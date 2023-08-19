@@ -39,6 +39,10 @@ nav {
    
 }
 
+html{
+    scroll-padding-top: 8rem;
+}
+
 .logo img{
  height: 35px;
    margin-left: 70%;
